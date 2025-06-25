@@ -1,6 +1,6 @@
 # 👨‍💻 Sofian Sims
 
-**Full-Stack | Back-End | AI/ML Engineer (Security-Informed)**
+**Full-Stack | AI/ML Engineer (Security-Informed)**
 
 I'm a software engineer in progress focused on back-end systems, automation, and applied machine learning. With experience in full-stack development, cloud pipelines, and cybersecurity, I build scalable tools that merge intelligent logic with secure infrastructure.
 
