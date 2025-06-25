@@ -62,7 +62,7 @@ I’ve led projects ranging from AI-driven bots in Microsoft Teams to predictive
 
 - **InsightIQ** – Support intelligence dashboard (Python, Azure, Power BI, scikit-learn)  
 - **Knowledge Bot** – Microsoft Teams bot with AI-driven search (Python, JavaScript, TensorFlow)   
-- **Blacklistd (iOS)** – SwiftUI app with interactive rating system and Firebase backend  
+- **Blacklistd (iOS)** – An exclusive event and booking platform built with SwiftUI, Firebase, and JavaScript, designed for curated experiences, RSVP access, and streamlined client-side booking.
 
 ---
 
