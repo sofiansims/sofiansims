@@ -9,7 +9,7 @@ I’ve led projects ranging from AI-driven bots in Microsoft Teams to predictive
 <p align="left">
   <a href="https://github.com/sofiansims?tab=followers">
     <img alt="GitHub followers" title="Follow me on GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/followers/sofian-sims?color=236ad3&label=FOLLOWERS&logo=github&labelColor=1155ba&style=for-the-badge"/>
+         src="https://custom-icon-badges.demolab.com/github/followers/sofiansims?color=236ad3&label=FOLLOWERS&logo=github&labelColor=1155ba&style=for-the-badge"/>
   </a>
   <a href="https://linkedin.com/in/sofiansims">
     <img alt="LinkedIn" title="Connect with me on LinkedIn"
