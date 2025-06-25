@@ -61,10 +61,8 @@ I’ve led projects ranging from AI-driven bots in Microsoft Teams to predictive
 ### 🚀 Highlight Projects
 
 - **InsightIQ** – Support intelligence dashboard (Python, Azure, Power BI, scikit-learn)  
-- **Knowledge Bot** – Microsoft Teams bot with AI-driven search (Python, JavaScript, TensorFlow)  
-- **Secure Admin Automation** – PowerShell tool to create hardened local admin accounts  
+- **Knowledge Bot** – Microsoft Teams bot with AI-driven search (Python, JavaScript, TensorFlow)   
 - **Blacklistd (iOS)** – SwiftUI app with interactive rating system and Firebase backend  
-- **Battleship Chat (C)** – Terminal-based multiplayer game + chat over sockets  
 
 ---
 
@@ -72,4 +70,3 @@ I’ve led projects ranging from AI-driven bots in Microsoft Teams to predictive
 
 - LinkedIn: [linkedin.com/in/sofiansims](https://linkedin.com/in/sofiansims)
 - GitHub: [github.com/sofiansims](https://github.com/sofiansims)
-- Email: sofian.sims@outlook.com
